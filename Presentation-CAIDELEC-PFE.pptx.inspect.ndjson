@@ -1,0 +1,386 @@
+{"kind":"deck","id":"pr/n7e69e","name":"Deck"}
+{"kind":"layout","layoutId":"689540b9-711f-4703-9fa4-399eff5cdb37","name":"Master","type":"master"}
+{"kind":"layout","layoutId":"44239ce9-b983-4708-8ab3-e14811a7a60f","name":"Title Slide","type":"title"}
+{"kind":"slide","id":"sl/ilhgcp","slide":1,"title":"PROJET DE FIN D'ETUDES","textShapes":7}
+{"kind":"shape","id":"sh/nap4r65w","slide":1,"bbox":[0,0,330,720]}
+{"kind":"shape","id":"sh/cvixczed","slide":1,"bbox":[330,0,18,720]}
+{"kind":"textbox","id":"sh/udg7adsj","slide":1,"text":"PROJET DE FIN D'ETUDES","textPreview":"PROJET DE FIN D'ETUDES","textChars":22,"textLines":1,"bbox":[400,86,500,34]}
+{"kind":"textbox","id":"sh/nyd0z610","slide":1,"text":"Systeme de gestion de la planification des interventions quotidiennes et des frais de deplacement","textPreview":"Systeme de gestion de la planification des interventions quotidiennes et des frais de deplacement","textChars":97,"textLines":1,"bbox":[398,154,760,192]}
+{"kind":"textbox","id":"sh/cj6tovah","slide":1,"text":"Application web CAIDELEC","textPreview":"Application web CAIDELEC","textChars":24,"textLines":1,"bbox":[402,370,430,36]}
+{"kind":"textbox","id":"sh/54zidony","slide":1,"text":"Annee universitaire : 2025/2026","textPreview":"Annee universitaire : 2025/2026","textChars":31,"textLines":1,"bbox":[402,548,420,28]}
+{"kind":"textbox","id":"sh/u9knih4b","slide":1,"text":"FastAPI + React + SQLite","textPreview":"FastAPI + React + SQLite","textChars":24,"textLines":1,"bbox":[402,582,420,28]}
+{"kind":"shape","id":"sh/judg7ads","slide":1,"bbox":[0,686,1280,34]}
+{"kind":"textbox","id":"sh/nyd0z610","slide":1,"text":"INTRODUCTION","textPreview":"INTRODUCTION","textChars":12,"textLines":1,"bbox":[58,692,420,22]}
+{"kind":"textbox","id":"sh/udg7adsj","slide":1,"text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[1160,690,62,25]}
+{"kind":"image","id":"im/8z25kb6x","slide":1,"name":"","alt":"Logo CAIDELEC","bbox":[54,68,240,70]}
+{"kind":"notes","id":"nt/ilhgcp","slide":1,"text":""}
+{"kind":"slide","id":"sl/4xhdb2","slide":2,"title":"SOMMAIRE","textShapes":20}
+{"kind":"shape","id":"sh/q1orytsv","slide":2,"bbox":[0,0,18,720]}
+{"kind":"shape","id":"sh/xs72x4na","slide":2,"bbox":[18,0,8,720]}
+{"kind":"textbox","id":"sh/87ed8bat","slide":2,"text":"SOMMAIRE","textPreview":"SOMMAIRE","textChars":8,"textLines":1,"bbox":[58,42,360,26]}
+{"kind":"textbox","id":"sh/je9cvixc","slide":2,"text":"Plan de la presentation","textPreview":"Plan de la presentation","textChars":23,"textLines":1,"bbox":[58,82,820,64]}
+{"kind":"shape","id":"sh/1gvy90je","slide":2,"bbox":[0,686,1280,34]}
+{"kind":"textbox","id":"sh/8z25kb6x","slide":2,"text":"SOMMAIRE","textPreview":"SOMMAIRE","textChars":8,"textLines":1,"bbox":[58,692,420,22]}
+{"kind":"textbox","id":"sh/fa9w3m94","slide":2,"text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[1160,690,62,25]}
+{"kind":"textbox","id":"sh/qpg3ex0n","slide":2,"text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[112,184,58,38]}
+{"kind":"textbox","id":"sh/wjudg7ad","slide":2,"text":"Contexte du sujet","textPreview":"Contexte du sujet","textChars":17,"textLines":1,"bbox":[194,188,390,36]}
+{"kind":"shape","id":"sh/p4r65wju","slide":2,"bbox":[194,232,340,2]}
+{"kind":"textbox","id":"sh/ed8v6psf","slide":2,"text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[112,272,58,38]}
+{"kind":"textbox","id":"sh/7y1kre1w","slide":2,"text":"Problematique","textPreview":"Problematique","textChars":13,"textLines":1,"bbox":[194,276,390,36]}
+{"kind":"shape","id":"sh/0bi9s36h","slide":2,"bbox":[194,320,340,2]}
+{"kind":"textbox","id":"sh/pwb2hwfy","slide":2,"text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[112,360,58,38]}
+{"kind":"textbox","id":"sh/i5sneloj","slide":2,"text":"Solution proposee","textPreview":"Solution proposee","textChars":17,"textLines":1,"bbox":[194,364,390,36]}
+{"kind":"shape","id":"sh/7qpg3ex0","slide":2,"bbox":[194,408,340,2]}
+{"kind":"textbox","id":"sh/0z61032l","slide":2,"text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[112,448,58,38]}
+{"kind":"textbox","id":"sh/pkzupwb2","slide":2,"text":"Architecture et conception","textPreview":"Architecture et conception","textChars":26,"textLines":1,"bbox":[194,452,390,36]}
+{"kind":"shape","id":"sh/donyd0z6","slide":2,"bbox":[194,496,340,2]}
+{"kind":"textbox","id":"sh/k3q5o7qp","slide":2,"text":"05","textPreview":"05","textChars":2,"textLines":1,"bbox":[632,184,58,38]}
+{"kind":"textbox","id":"sh/vixczed8","slide":2,"text":"Technologies utilisees","textPreview":"Technologies utilisees","textChars":22,"textLines":1,"bbox":[714,188,390,36]}
+{"kind":"shape","id":"sh/2x4nap4r","slide":2,"bbox":[714,232,340,2]}
+{"kind":"textbox","id":"sh/dcbulwva","slide":2,"text":"06","textPreview":"06","textChars":2,"textLines":1,"bbox":[632,272,58,38]}
+{"kind":"textbox","id":"sh/kre1w7mp","slide":2,"text":"Realisation et demonstration","textPreview":"Realisation et demonstration","textChars":28,"textLines":1,"bbox":[714,276,390,36]}
+{"kind":"shape","id":"sh/val87ed8","slide":2,"bbox":[714,320,340,2]}
+{"kind":"textbox","id":"sh/6psfil0r","slide":2,"text":"07","textPreview":"07","textChars":2,"textLines":1,"bbox":[632,360,58,38]}
+{"kind":"textbox","id":"sh/d8bat47y","slide":2,"text":"Validation des interventions et des frais","textPreview":"Validation des interventions et des frais","textChars":41,"textLines":1,"bbox":[714,364,390,36]}
+{"kind":"shape","id":"sh/knih4byh","slide":2,"bbox":[714,408,340,2]}
+{"kind":"textbox","id":"sh/yhgn29gr","slide":2,"text":"08","textPreview":"08","textChars":2,"textLines":1,"bbox":[632,448,58,38]}
+{"kind":"textbox","id":"sh/n29gr2p8","slide":2,"text":"Conclusion","textPreview":"Conclusion","textChars":10,"textLines":1,"bbox":[714,452,390,36]}
+{"kind":"shape","id":"sh/gn29gr2p","slide":2,"bbox":[714,496,340,2]}
+{"kind":"image","id":"im/7ed8bat4","slide":2,"name":"","alt":"Logo CAIDELEC","bbox":[930,38,260,70]}
+{"kind":"notes","id":"nt/4xhdb2","slide":2,"text":""}
+{"kind":"slide","id":"sl/2imouq","slide":3,"title":"01 - CONTEXTE DU SUJET","textShapes":12}
+{"kind":"shape","id":"sh/j2t83itg","slide":3,"bbox":[0,0,18,720]}
+{"kind":"shape","id":"sh/8nqxs72x","slide":3,"bbox":[18,0,8,720]}
+{"kind":"textbox","id":"sh/18jqh0fe","slide":3,"text":"01 - CONTEXTE DU SUJET","textPreview":"01 - CONTEXTE DU SUJET","textChars":22,"textLines":1,"bbox":[58,42,360,26]}
+{"kind":"textbox","id":"sh/q5o7qpg3","slide":3,"text":"Les interventions quotidiennes demandent un suivi structure","textPreview":"Les interventions quotidiennes demandent un suivi structure","textChars":59,"textLines":1,"bbox":[58,82,820,64]}
+{"kind":"shape","id":"sh/8bat47y1","slide":3,"bbox":[0,686,1280,34]}
+{"kind":"textbox","id":"sh/1w7mp0bi","slide":3,"text":"01 - CONTEXTE DU SUJET","textPreview":"01 - CONTEXTE DU SUJET","textChars":22,"textLines":1,"bbox":[58,692,420,22]}
+{"kind":"textbox","id":"sh/uxc3ylc7","slide":3,"text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[1160,690,62,25]}
+{"kind":"shape","id":"sh/ji5snelo","slide":3,"bbox":[92,198,12,12]}
+{"kind":"textbox","id":"sh/vu9knih4","slide":3,"text":"Activite terrain","textPreview":"Activite terrain","textChars":16,"textLines":1,"bbox":[120,190,520,30]}
+{"kind":"textbox","id":"sh/29gr2p8n","slide":3,"text":"Les equipes CAIDELEC realisent chaque jour des interventions sur plusieurs chantiers.","textPreview":"Les equipes CAIDELEC realisent chaque jour des interventions sur plusieurs chantiers.","textChars":85,"textLines":1,"bbox":[120,224,520,62]}
+{"kind":"shape","id":"sh/d0z61032","slide":3,"bbox":[92,326,12,12]}
+{"kind":"textbox","id":"sh/kf6dcbul","slide":3,"text":"Coordination interne","textPreview":"Coordination interne","textChars":20,"textLines":1,"bbox":[120,318,520,30]}
+{"kind":"textbox","id":"sh/v6psfil0","slide":3,"text":"L'administrateur doit planifier les dates, les intervenants et la nature des travaux.","textPreview":"L'administrateur doit planifier les dates, les intervenants et la nature des travaux.","textChars":85,"textLines":1,"bbox":[120,352,520,62]}
+{"kind":"shape","id":"sh/2lszqtcj","slide":3,"bbox":[650,198,12,12]}
+{"kind":"textbox","id":"sh/d8bat47y","slide":3,"text":"Frais de deplacement","textPreview":"Frais de deplacement","textChars":20,"textLines":1,"bbox":[678,190,520,30]}
+{"kind":"textbox","id":"sh/knih4byh","slide":3,"text":"Chaque intervention peut generer des frais de transport, repas ou autres depenses.","textPreview":"Chaque intervention peut generer des frais de transport, repas ou autres depenses.","textChars":82,"textLines":1,"bbox":[678,224,520,62]}
+{"kind":"shape","id":"sh/val87ed8","slide":3,"bbox":[650,326,12,12]}
+{"kind":"textbox","id":"sh/6psfil0r","slide":3,"text":"Besoin de tracabilite","textPreview":"Besoin de tracabilite","textChars":21,"textLines":1,"bbox":[678,318,520,30]}
+{"kind":"textbox","id":"sh/a1gvy90j","slide":3,"text":"Les responsables doivent verifier les interventions realisees et les justificatifs des frais.","textPreview":"Les responsables doivent verifier les interventions realisees et les justificatifs des frais.","textChars":93,"textLines":1,"bbox":[678,352,520,62]}
+{"kind":"image","id":"im/u54zidon","slide":3,"name":"","alt":"Logo CAIDELEC","bbox":[930,38,260,70]}
+{"kind":"notes","id":"nt/2imouq","slide":3,"text":""}
+{"kind":"slide","id":"sl/48go1g","slide":4,"title":"02 - PROBLEMATIQUE","textShapes":9}
+{"kind":"shape","id":"sh/oj2t83it","slide":4,"bbox":[0,0,18,720]}
+{"kind":"shape","id":"sh/vy90je9c","slide":4,"bbox":[18,0,8,720]}
+{"kind":"textbox","id":"sh/6dcbulwv","slide":4,"text":"02 - PROBLEMATIQUE","textPreview":"02 - PROBLEMATIQUE","textChars":18,"textLines":1,"bbox":[58,42,360,26]}
+{"kind":"textbox","id":"sh/dsji5sne","slide":4,"text":"Le suivi manuel limite la visibilite et la verification","textPreview":"Le suivi manuel limite la visibilite et la verification","textChars":55,"textLines":1,"bbox":[58,82,820,64]}
+{"kind":"shape","id":"sh/vmtwra5g","slide":4,"bbox":[0,686,1280,34]}
+{"kind":"textbox","id":"sh/61032lsz","slide":4,"text":"02 - PROBLEMATIQUE","textPreview":"02 - PROBLEMATIQUE","textChars":18,"textLines":1,"bbox":[58,692,420,22]}
+{"kind":"textbox","id":"sh/dg7adsji","slide":4,"text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[1160,690,62,25]}
+{"kind":"shape","id":"sh/ovahoza1","slide":4,"bbox":[110,184,12,12]}
+{"kind":"textbox","id":"sh/mtwra5gb","slide":4,"text":"Planning journalier difficile a consulter rapidement","textPreview":"Planning journalier difficile a consulter rapidement","textChars":52,"textLines":1,"bbox":[138,176,900,30]}
+{"kind":"shape","id":"sh/fepkzupw","slide":4,"bbox":[138,210,900,62]}
+{"kind":"shape","id":"sh/4zidonyd","slide":4,"bbox":[110,266,12,12]}
+{"kind":"textbox","id":"sh/xkf6dcbu","slide":4,"text":"Risque d'erreur dans l'affectation des employes","textPreview":"Risque d'erreur dans l'affectation des employes","textChars":47,"textLines":1,"bbox":[138,258,900,30]}
+{"kind":"shape","id":"sh/mlkjm1cf","slide":4,"bbox":[138,292,900,62]}
+{"kind":"shape","id":"sh/f6dcbulw","slide":4,"bbox":[110,348,12,12]}
+{"kind":"textbox","id":"sh/4r65wjud","slide":4,"text":"Absence de preuve claire pour valider les frais","textPreview":"Absence de preuve claire pour valider les frais","textChars":47,"textLines":1,"bbox":[138,340,900,30]}
+{"kind":"shape","id":"sh/xc3ylc7u","slide":4,"bbox":[138,374,900,62]}
+{"kind":"shape","id":"sh/m94fu18j","slide":4,"bbox":[110,430,12,12]}
+{"kind":"textbox","id":"sh/fu18jqh0","slide":4,"text":"Difficulte a savoir si une intervention est realisee","textPreview":"Difficulte a savoir si une intervention est realisee","textChars":52,"textLines":1,"bbox":[138,422,900,30]}
+{"kind":"shape","id":"sh/7qpg3ex0","slide":4,"bbox":[138,456,900,62]}
+{"kind":"shape","id":"sh/i5sneloj","slide":4,"bbox":[110,512,12,12]}
+{"kind":"textbox","id":"sh/pwb2hwfy","slide":4,"text":"Export Excel manuel chronophage pour les fiches journalieres","textPreview":"Export Excel manuel chronophage pour les fiches journalieres","textChars":60,"textLines":1,"bbox":[138,504,900,30]}
+{"kind":"shape","id":"sh/0bi9s36h","slide":4,"bbox":[138,538,900,62]}
+{"kind":"image","id":"im/5o7qpg3e","slide":4,"name":"","alt":"Logo CAIDELEC","bbox":[930,38,260,70]}
+{"kind":"notes","id":"nt/48go1g","slide":4,"text":""}
+{"kind":"slide","id":"sl/nl0bxo","slide":5,"title":"03 - SOLUTION PROPOSEE","textShapes":11}
+{"kind":"shape","id":"sh/hcrmhk3q","slide":5,"bbox":[0,0,18,720]}
+{"kind":"shape","id":"sh/al87ed8b","slide":5,"bbox":[18,0,8,720]}
+{"kind":"textbox","id":"sh/z61032ls","slide":5,"text":"03 - SOLUTION PROPOSEE","textPreview":"03 - SOLUTION PROPOSEE","textChars":22,"textLines":1,"bbox":[58,42,360,26]}
+{"kind":"textbox","id":"sh/sfil0rqd","slide":5,"text":"CAIDELEC centralise le planning, les frais et la verification","textPreview":"CAIDELEC centralise le planning, les frais et la verification","textChars":61,"textLines":1,"bbox":[58,82,820,64]}
+{"kind":"shape","id":"sh/a9w3m94f","slide":5,"bbox":[0,686,1280,34]}
+{"kind":"textbox","id":"sh/zupwb2hw","slide":5,"text":"03 - SOLUTION PROPOSEE","textPreview":"03 - SOLUTION PROPOSEE","textChars":22,"textLines":1,"bbox":[58,692,420,22]}
+{"kind":"textbox","id":"sh/obm58z25","slide":5,"text":"05","textPreview":"05","textChars":2,"textLines":1,"bbox":[1160,690,62,25]}
+{"kind":"shape","id":"sh/hwfyxobm","slide":5,"bbox":[96,192,250,118]}
+{"kind":"textbox","id":"sh/t83itgfm","slide":5,"text":"2","textPreview":"2","textChars":1,"textLines":1,"bbox":[118,212,206,42]}
+{"kind":"textbox","id":"sh/4nap4r65","slide":5,"text":"Roles utilisateurs","textPreview":"Roles utilisateurs","textChars":18,"textLines":1,"bbox":[114,262,214,28]}
+{"kind":"shape","id":"sh/b2hwfyxo","slide":5,"bbox":[388,192,250,118]}
+{"kind":"textbox","id":"sh/mhk3q5o7","slide":5,"text":"4","textPreview":"4","textChars":1,"textLines":1,"bbox":[410,212,206,42]}
+{"kind":"textbox","id":"sh/twra5gbq","slide":5,"text":"Modules principaux","textPreview":"Modules principaux","textChars":18,"textLines":1,"bbox":[406,262,214,28]}
+{"kind":"shape","id":"sh/4byhgn29","slide":5,"bbox":[680,192,250,118]}
+{"kind":"textbox","id":"sh/bq1oryts","slide":5,"text":"1","textPreview":"1","textChars":1,"textLines":1,"bbox":[702,212,206,42]}
+{"kind":"textbox","id":"sh/m58z25kb","slide":5,"text":"Dashboard central","textPreview":"Dashboard central","textChars":17,"textLines":1,"bbox":[698,262,214,28]}
+{"kind":"textbox","id":"sh/tsvu9kni","slide":5,"text":"L'application permet de creer les employes, planifier les interventions, declarer leur realisation, suivre les frais avec photo justificative et exporter les affectations journalieres en Excel.","textPreview":"L'application permet de creer les employes, planifier les interventions, declarer leur realisation, suivre les frais avec photo justifica...","textChars":193,"textLines":1,"bbox":[112,386,960,96]}
+{"kind":"image","id":"im/kb6xkf6d","slide":5,"name":"","alt":"Logo CAIDELEC","bbox":[930,38,260,70]}
+{"kind":"notes","id":"nt/nl0bxo","slide":5,"text":""}
+{"kind":"slide","id":"sl/9of1lw","slide":6,"title":"04 - ARCHITECTURE","textShapes":22}
+{"kind":"shape","id":"sh/a1gvy90j","slide":6,"bbox":[0,0,18,720]}
+{"kind":"shape","id":"sh/hoza1gvy","slide":6,"bbox":[18,0,8,720]}
+{"kind":"textbox","id":"sh/s36hcrmh","slide":6,"text":"04 - ARCHITECTURE","textPreview":"04 - ARCHITECTURE","textChars":17,"textLines":1,"bbox":[58,42,360,26]}
+{"kind":"textbox","id":"sh/za1gvy90","slide":6,"text":"Le parcours d'une intervention reste simple et controlable","textPreview":"Le parcours d'une intervention reste simple et controlable","textChars":58,"textLines":1,"bbox":[58,82,820,64]}
+{"kind":"shape","id":"sh/hgn29gr2","slide":6,"bbox":[0,686,1280,34]}
+{"kind":"textbox","id":"sh/svu9knih","slide":6,"text":"04 - ARCHITECTURE","textPreview":"04 - ARCHITECTURE","textChars":17,"textLines":1,"bbox":[58,692,420,22]}
+{"kind":"textbox","id":"sh/3ylc7u54","slide":6,"text":"06","textPreview":"06","textChars":2,"textLines":1,"bbox":[1160,690,62,25]}
+{"kind":"shape","id":"sh/adsji5sn","slide":6,"bbox":[78,286,150,126]}
+{"kind":"shape","id":"sh/w7mp0bi9","slide":6,"bbox":[132,266,42,42]}
+{"kind":"textbox","id":"sh/psfil0rq","slide":6,"text":"1","textPreview":"1","textChars":1,"textLines":1,"bbox":[132,275,42,24]}
+{"kind":"textbox","id":"sh/e1w7mp0b","slide":6,"text":"Creation","textPreview":"Creation","textChars":8,"textLines":1,"bbox":[92,310,122,28]}
+{"kind":"textbox","id":"sh/7mp0bi9s","slide":6,"text":"Admin ajoute l'employe","textPreview":"Admin ajoute l'employe","textChars":22,"textLines":1,"bbox":[92,344,122,46]}
+{"kind":"shape","id":"sh/wval87ed","slide":6,"bbox":[236,340,42,4]}
+{"kind":"shape","id":"sh/pg3ex0nu","slide":6,"bbox":[266,286,150,126]}
+{"kind":"shape","id":"sh/epkzupwb","slide":6,"bbox":[320,266,42,42]}
+{"kind":"textbox","id":"sh/7adsji5s","slide":6,"text":"2","textPreview":"2","textChars":1,"textLines":1,"bbox":[320,275,42,24]}
+{"kind":"textbox","id":"sh/wra5gbq1","slide":6,"text":"Planification","textPreview":"Planification","textChars":13,"textLines":1,"bbox":[280,310,122,28]}
+{"kind":"textbox","id":"sh/lc7u54zi","slide":6,"text":"Admin affecte une intervention","textPreview":"Admin affecte une intervention","textChars":30,"textLines":1,"bbox":[280,344,122,46]}
+{"kind":"shape","id":"sh/p4r65wju","slide":6,"bbox":[424,340,42,4]}
+{"kind":"shape","id":"sh/wjudg7ad","slide":6,"bbox":[454,286,150,126]}
+{"kind":"shape","id":"sh/7y1kre1w","slide":6,"bbox":[508,266,42,42]}
+{"kind":"textbox","id":"sh/ed8v6psf","slide":6,"text":"3","textPreview":"3","textChars":1,"textLines":1,"bbox":[508,275,42,24]}
+{"kind":"textbox","id":"sh/pwb2hwfy","slide":6,"text":"Consultation","textPreview":"Consultation","textChars":12,"textLines":1,"bbox":[468,310,122,28]}
+{"kind":"textbox","id":"sh/0bi9s36h","slide":6,"text":"Employe voit ses missions","textPreview":"Employe voit ses missions","textChars":25,"textLines":1,"bbox":[468,344,122,46]}
+{"kind":"shape","id":"sh/7qpg3ex0","slide":6,"bbox":[612,340,42,4]}
+{"kind":"shape","id":"sh/i5sneloj","slide":6,"bbox":[642,286,150,126]}
+{"kind":"shape","id":"sh/pkzupwb2","slide":6,"bbox":[696,266,42,42]}
+{"kind":"textbox","id":"sh/0z61032l","slide":6,"text":"4","textPreview":"4","textChars":1,"textLines":1,"bbox":[696,275,42,24]}
+{"kind":"textbox","id":"sh/qh0fepkz","slide":6,"text":"Declaration","textPreview":"Declaration","textChars":11,"textLines":1,"bbox":[656,310,122,28]}
+{"kind":"textbox","id":"sh/j2t83itg","slide":6,"text":"Employe declare realisee","textPreview":"Employe declare realisee","textChars":24,"textLines":1,"bbox":[656,344,122,46]}
+{"kind":"shape","id":"sh/8nqxs72x","slide":6,"bbox":[800,340,42,4]}
+{"kind":"shape","id":"sh/18jqh0fe","slide":6,"bbox":[830,286,150,126]}
+{"kind":"shape","id":"sh/q5o7qpg3","slide":6,"bbox":[884,266,42,42]}
+{"kind":"textbox","id":"sh/jqh0fepk","slide":6,"text":"5","textPreview":"5","textChars":1,"textLines":1,"bbox":[884,275,42,24]}
+{"kind":"textbox","id":"sh/8bat47y1","slide":6,"text":"Verification","textPreview":"Verification","textChars":12,"textLines":1,"bbox":[844,310,122,28]}
+{"kind":"textbox","id":"sh/1w7mp0bi","slide":6,"text":"Admin confirme le suivi","textPreview":"Admin confirme le suivi","textChars":23,"textLines":1,"bbox":[844,344,122,46]}
+{"kind":"shape","id":"sh/uxc3ylc7","slide":6,"bbox":[988,340,42,4]}
+{"kind":"shape","id":"sh/ji5snelo","slide":6,"bbox":[1018,286,150,126]}
+{"kind":"shape","id":"sh/zidonyd0","slide":6,"bbox":[1072,266,42,42]}
+{"kind":"textbox","id":"sh/a1gvy90j","slide":6,"text":"6","textPreview":"6","textChars":1,"textLines":1,"bbox":[1072,275,42,24]}
+{"kind":"textbox","id":"sh/hoza1gvy","slide":6,"text":"Export","textPreview":"Export","textChars":6,"textLines":1,"bbox":[1032,310,122,28]}
+{"kind":"textbox","id":"sh/s36hcrmh","slide":6,"text":"Fiche Excel journaliere","textPreview":"Fiche Excel journaliere","textChars":23,"textLines":1,"bbox":[1032,344,122,46]}
+{"kind":"image","id":"im/f6dcbulw","slide":6,"name":"","alt":"Logo CAIDELEC","bbox":[930,38,260,70]}
+{"kind":"notes","id":"nt/9of1lw","slide":6,"text":""}
+{"kind":"slide","id":"sl/tyut18","slide":7,"title":"05 - CONCEPTION","textShapes":16}
+{"kind":"shape","id":"sh/r2p8nqxs","slide":7,"bbox":[0,0,18,720]}
+{"kind":"shape","id":"sh/kjm1cfa9","slide":7,"bbox":[18,0,8,720]}
+{"kind":"textbox","id":"sh/94fu18jq","slide":7,"text":"05 - CONCEPTION","textPreview":"05 - CONCEPTION","textChars":15,"textLines":1,"bbox":[58,42,360,26]}
+{"kind":"textbox","id":"sh/2p8nqxs7","slide":7,"text":"Les cas d'utilisation couvrent les deux profils","textPreview":"Les cas d'utilisation couvrent les deux profils","textChars":47,"textLines":1,"bbox":[58,82,820,64]}
+{"kind":"shape","id":"sh/gvy90je9","slide":7,"bbox":[0,686,1280,34]}
+{"kind":"textbox","id":"sh/9gr2p8nq","slide":7,"text":"05 - CONCEPTION","textPreview":"05 - CONCEPTION","textChars":15,"textLines":1,"bbox":[58,692,420,22]}
+{"kind":"textbox","id":"sh/2t83itgf","slide":7,"text":"07","textPreview":"07","textChars":2,"textLines":1,"bbox":[1160,690,62,25]}
+{"kind":"shape","id":"sh/re1w7mp0","slide":7,"bbox":[120,190,190,360]}
+{"kind":"textbox","id":"sh/bulwval8","slide":7,"text":"Admin","textPreview":"Admin","textChars":5,"textLines":1,"bbox":[152,224,126,36]}
+{"kind":"shape","id":"sh/i9s36hcr","slide":7,"bbox":[410,176,270,44]}
+{"kind":"textbox","id":"sh/p0bi9s36","slide":7,"text":"Gerer employes","textPreview":"Gerer employes","textChars":14,"textLines":1,"bbox":[426,184,238,24]}
+{"kind":"shape","id":"sh/0fepkzup","slide":7,"bbox":[410,248,270,44]}
+{"kind":"textbox","id":"sh/bi9s36hc","slide":7,"text":"Planifier interventions","textPreview":"Planifier interventions","textChars":23,"textLines":1,"bbox":[426,256,238,24]}
+{"kind":"shape","id":"sh/ixczed8v","slide":7,"bbox":[410,320,270,44]}
+{"kind":"textbox","id":"sh/tovahoza","slide":7,"text":"Verifier interventions","textPreview":"Verifier interventions","textChars":22,"textLines":1,"bbox":[426,328,238,24]}
+{"kind":"shape","id":"sh/032lszqt","slide":7,"bbox":[410,392,270,44]}
+{"kind":"textbox","id":"sh/b6xkf6dc","slide":7,"text":"Observer frais","textPreview":"Observer frais","textChars":14,"textLines":1,"bbox":[426,400,238,24]}
+{"kind":"shape","id":"sh/il0rqd4v","slide":7,"bbox":[410,464,270,44]}
+{"kind":"textbox","id":"sh/ulwval87","slide":7,"text":"Verifier justificatifs","textPreview":"Verifier justificatifs","textChars":22,"textLines":1,"bbox":[426,472,238,24]}
+{"kind":"shape","id":"sh/j6tovaho","slide":7,"bbox":[910,190,190,360]}
+{"kind":"textbox","id":"sh/crmhk3q5","slide":7,"text":"Employe","textPreview":"Employe","textChars":7,"textLines":1,"bbox":[940,224,130,36]}
+{"kind":"shape","id":"sh/1cfa9w3m","slide":7,"bbox":[610,176,250,44]}
+{"kind":"textbox","id":"sh/uxc3ylc7","slide":7,"text":"Consulter missions","textPreview":"Consulter missions","textChars":18,"textLines":1,"bbox":[626,184,218,24]}
+{"kind":"shape","id":"sh/ji5snelo","slide":7,"bbox":[610,248,250,44]}
+{"kind":"textbox","id":"sh/c3ylc7u5","slide":7,"text":"Declarer realisee","textPreview":"Declarer realisee","textChars":17,"textLines":1,"bbox":[626,256,218,24]}
+{"kind":"shape","id":"sh/1kre1w7m","slide":7,"bbox":[610,320,250,44]}
+{"kind":"textbox","id":"sh/q5o7qpg3","slide":7,"text":"Ajouter frais","textPreview":"Ajouter frais","textChars":13,"textLines":1,"bbox":[626,328,218,24]}
+{"kind":"shape","id":"sh/jqh0fepk","slide":7,"bbox":[610,392,250,44]}
+{"kind":"textbox","id":"sh/p8nqxs72","slide":7,"text":"Joindre photo","textPreview":"Joindre photo","textChars":13,"textLines":1,"bbox":[626,400,218,24]}
+{"kind":"shape","id":"sh/0nuxc3yl","slide":7,"bbox":[610,464,250,44]}
+{"kind":"textbox","id":"sh/72x4nap4","slide":7,"text":"Suivre ses frais","textPreview":"Suivre ses frais","textChars":16,"textLines":1,"bbox":[626,472,218,24]}
+{"kind":"image","id":"im/mtwra5gb","slide":7,"name":"","alt":"Logo CAIDELEC","bbox":[930,38,260,70]}
+{"kind":"notes","id":"nt/tyut18","slide":7,"text":""}
+{"kind":"slide","id":"sl/gwqfya","slide":8,"title":"05 - CONCEPTION","textShapes":15}
+{"kind":"shape","id":"sh/nap4r65w","slide":8,"bbox":[0,0,18,720]}
+{"kind":"shape","id":"sh/cvixczed","slide":8,"bbox":[18,0,8,720]}
+{"kind":"textbox","id":"sh/5gbq1ory","slide":8,"text":"05 - CONCEPTION","textPreview":"05 - CONCEPTION","textChars":15,"textLines":1,"bbox":[58,42,360,26]}
+{"kind":"textbox","id":"sh/udg7adsj","slide":8,"text":"Le modele de donnees relie utilisateurs, interventions et frais","textPreview":"Le modele de donnees relie utilisateurs, interventions et frais","textChars":63,"textLines":1,"bbox":[58,82,820,64]}
+{"kind":"shape","id":"sh/cj6tovah","slide":8,"bbox":[0,686,1280,34]}
+{"kind":"textbox","id":"sh/54zidony","slide":8,"text":"05 - CONCEPTION","textPreview":"05 - CONCEPTION","textChars":15,"textLines":1,"bbox":[58,692,420,22]}
+{"kind":"textbox","id":"sh/u9knih4b","slide":8,"text":"08","textPreview":"08","textChars":2,"textLines":1,"bbox":[1160,690,62,25]}
+{"kind":"shape","id":"sh/judg7ads","slide":8,"bbox":[96,208,220,190]}
+{"kind":"shape","id":"sh/nyd0z610","slide":8,"bbox":[96,208,220,46]}
+{"kind":"textbox","id":"sh/udg7adsj","slide":8,"text":"User","textPreview":"User","textChars":4,"textLines":1,"bbox":[112,217,188,26]}
+{"kind":"textbox","id":"sh/54zidony","slide":8,"text":"username\nrole\nemployee_id\nexpense_limit","textPreview":"username | role | employee_id | expense_limit","textChars":39,"textLines":4,"bbox":[114,272,184,100]}
+{"kind":"shape","id":"sh/cj6tovah","slide":8,"bbox":[386,208,220,190]}
+{"kind":"shape","id":"sh/nap4r65w","slide":8,"bbox":[386,208,220,46]}
+{"kind":"textbox","id":"sh/upwb2hwf","slide":8,"text":"Employee","textPreview":"Employee","textChars":8,"textLines":1,"bbox":[402,217,188,26]}
+{"kind":"textbox","id":"sh/5gbq1ory","slide":8,"text":"full_name\nrole\nphone","textPreview":"full_name | role | phone","textChars":20,"textLines":3,"bbox":[404,272,184,100]}
+{"kind":"shape","id":"sh/cvixczed","slide":8,"bbox":[676,208,220,190]}
+{"kind":"shape","id":"sh/jm1cfa9w","slide":8,"bbox":[676,208,220,46]}
+{"kind":"textbox","id":"sh/u18jqh0f","slide":8,"text":"Intervention","textPreview":"Intervention","textChars":12,"textLines":1,"bbox":[692,217,188,26]}
+{"kind":"textbox","id":"sh/25kb6xkf","slide":8,"text":"chantier\nnature_travaux\nstart_date / end_date\nstatus","textPreview":"chantier | nature_travaux | start_date / end_date | status","textChars":52,"textLines":4,"bbox":[694,272,184,100]}
+{"kind":"shape","id":"sh/rqd4vmtw","slide":8,"bbox":[966,208,220,190]}
+{"kind":"shape","id":"sh/kb6xkf6d","slide":8,"bbox":[966,208,220,46]}
+{"kind":"textbox","id":"sh/9w3m94fu","slide":8,"text":"Expense","textPreview":"Expense","textChars":7,"textLines":1,"bbox":[982,217,188,26]}
+{"kind":"textbox","id":"sh/2t83itgf","slide":8,"text":"transport\nrepas\nautre\nreceipt_photo\nstatus","textPreview":"transport | repas | autre | receipt_photo | status","textChars":42,"textLines":5,"bbox":[984,272,184,100]}
+{"kind":"shape","id":"sh/re1w7mp0","slide":8,"bbox":[316,298,70,4]}
+{"kind":"shape","id":"sh/kzupwb2h","slide":8,"bbox":[606,298,70,4]}
+{"kind":"shape","id":"sh/9knih4by","slide":8,"bbox":[896,298,70,4]}
+{"kind":"textbox","id":"sh/2p8nqxs7","slide":8,"text":"1 - 1","textPreview":"1 - 1","textChars":5,"textLines":1,"bbox":[328,268,54,22]}
+{"kind":"textbox","id":"sh/ra5gbq1o","slide":8,"text":"1 - N","textPreview":"1 - N","textChars":5,"textLines":1,"bbox":[618,268,54,22]}
+{"kind":"textbox","id":"sh/xs72x4na","slide":8,"text":"1 - N","textPreview":"1 - N","textChars":5,"textLines":1,"bbox":[908,268,54,22]}
+{"kind":"image","id":"im/udg7adsj","slide":8,"name":"","alt":"Logo CAIDELEC","bbox":[930,38,260,70]}
+{"kind":"notes","id":"nt/gwqfya","slide":8,"text":""}
+{"kind":"slide","id":"sl/0d316j","slide":9,"title":"06 - TECHNOLOGIES","textShapes":16}
+{"kind":"shape","id":"sh/itgfmlkj","slide":9,"bbox":[0,0,18,720]}
+{"kind":"shape","id":"sh/pkzupwb2","slide":9,"bbox":[18,0,8,720]}
+{"kind":"textbox","id":"sh/0z61032l","slide":9,"text":"06 - TECHNOLOGIES","textPreview":"06 - TECHNOLOGIES","textChars":17,"textLines":1,"bbox":[58,42,360,26]}
+{"kind":"textbox","id":"sh/72x4nap4","slide":9,"text":"Une stack web simple et adaptee au PFE","textPreview":"Une stack web simple et adaptee au PFE","textChars":38,"textLines":1,"bbox":[58,82,820,64]}
+{"kind":"shape","id":"sh/p8nqxs72","slide":9,"bbox":[0,686,1280,34]}
+{"kind":"textbox","id":"sh/0nuxc3yl","slide":9,"text":"06 - TECHNOLOGIES","textPreview":"06 - TECHNOLOGIES","textChars":17,"textLines":1,"bbox":[58,692,420,22]}
+{"kind":"textbox","id":"sh/7y1kre1w","slide":9,"text":"09","textPreview":"09","textChars":2,"textLines":1,"bbox":[1160,690,62,25]}
+{"kind":"shape","id":"sh/ed8v6psf","slide":9,"bbox":[94,202,310,108]}
+{"kind":"textbox","id":"sh/8v6psfil","slide":9,"text":"React Vite","textPreview":"React Vite","textChars":10,"textLines":1,"bbox":[112,220,274,28]}
+{"kind":"textbox","id":"sh/xczed8v6","slide":9,"text":"Interface utilisateur rapide et modulaire","textPreview":"Interface utilisateur rapide et modulaire","textChars":41,"textLines":1,"bbox":[116,258,266,34]}
+{"kind":"shape","id":"sh/qpg3ex0n","slide":9,"bbox":[454,202,310,108]}
+{"kind":"textbox","id":"sh/fa9w3m94","slide":9,"text":"FastAPI","textPreview":"FastAPI","textChars":7,"textLines":1,"bbox":[472,220,274,28]}
+{"kind":"textbox","id":"sh/8jqh0fep","slide":9,"text":"API REST avec authentification JWT","textPreview":"API REST avec authentification JWT","textChars":34,"textLines":1,"bbox":[476,258,266,34]}
+{"kind":"shape","id":"sh/x4nap4r6","slide":9,"bbox":[814,202,310,108]}
+{"kind":"textbox","id":"sh/qd4vmtwr","slide":9,"text":"SQLAlchemy","textPreview":"SQLAlchemy","textChars":10,"textLines":1,"bbox":[832,220,274,28]}
+{"kind":"textbox","id":"sh/fyxobm58","slide":9,"text":"Mapping objet relationnel","textPreview":"Mapping objet relationnel","textChars":25,"textLines":1,"bbox":[836,258,266,34]}
+{"kind":"shape","id":"sh/87ed8bat","slide":9,"bbox":[94,356,310,108]}
+{"kind":"textbox","id":"sh/xs72x4na","slide":9,"text":"SQLite","textPreview":"SQLite","textChars":6,"textLines":1,"bbox":[112,374,274,28]}
+{"kind":"textbox","id":"sh/lwval87e","slide":9,"text":"Base de donnees locale simple","textPreview":"Base de donnees locale simple","textChars":29,"textLines":1,"bbox":[116,412,266,34]}
+{"kind":"shape","id":"sh/wb2hwfyx","slide":9,"bbox":[454,356,310,108]}
+{"kind":"textbox","id":"sh/3q5o7qpg","slide":9,"text":"Axios","textPreview":"Axios","textChars":5,"textLines":1,"bbox":[472,374,274,28]}
+{"kind":"textbox","id":"sh/e9cvixcz","slide":9,"text":"Communication frontend backend","textPreview":"Communication frontend backend","textChars":30,"textLines":1,"bbox":[476,412,266,34]}
+{"kind":"shape","id":"sh/loj2t83i","slide":9,"bbox":[814,356,310,108]}
+{"kind":"textbox","id":"sh/w3m94fu1","slide":9,"text":"ExcelJS","textPreview":"ExcelJS","textChars":7,"textLines":1,"bbox":[832,374,274,28]}
+{"kind":"textbox","id":"sh/3itgfmlk","slide":9,"text":"Export Excel professionnel","textPreview":"Export Excel professionnel","textChars":26,"textLines":1,"bbox":[836,412,266,34]}
+{"kind":"image","id":"im/3ylc7u54","slide":9,"name":"","alt":"Logo CAIDELEC","bbox":[930,38,260,70]}
+{"kind":"notes","id":"nt/0d316j","slide":9,"text":""}
+{"kind":"slide","id":"sl/d98jz3","slide":10,"title":"07 - REALISATION","textShapes":10}
+{"kind":"shape","id":"sh/4nap4r65","slide":10,"bbox":[0,0,18,720]}
+{"kind":"shape","id":"sh/b2hwfyxo","slide":10,"bbox":[18,0,8,720]}
+{"kind":"textbox","id":"sh/mhk3q5o7","slide":10,"text":"07 - REALISATION","textPreview":"07 - REALISATION","textChars":16,"textLines":1,"bbox":[58,42,360,26]}
+{"kind":"textbox","id":"sh/twra5gbq","slide":10,"text":"Les ecrans principaux couvrent le cycle complet","textPreview":"Les ecrans principaux couvrent le cycle complet","textChars":47,"textLines":1,"bbox":[58,82,820,64]}
+{"kind":"shape","id":"sh/bq1oryts","slide":10,"bbox":[0,686,1280,34]}
+{"kind":"textbox","id":"sh/m58z25kb","slide":10,"text":"07 - REALISATION","textPreview":"07 - REALISATION","textChars":16,"textLines":1,"bbox":[58,692,420,22]}
+{"kind":"textbox","id":"sh/tsvu9kni","slide":10,"text":"10","textPreview":"10","textChars":2,"textLines":1,"bbox":[1160,690,62,25]}
+{"kind":"shape","id":"sh/47y1kre1","slide":10,"bbox":[112,178,420,72]}
+{"kind":"textbox","id":"sh/adsji5sn","slide":10,"text":"Login securise","textPreview":"Login securise","textChars":14,"textLines":1,"bbox":[136,198,372,32]}
+{"kind":"shape","id":"sh/3ylc7u54","slide":10,"bbox":[112,290,420,72]}
+{"kind":"textbox","id":"sh/sji5snel","slide":10,"text":"Dashboard avec calendrier","textPreview":"Dashboard avec calendrier","textChars":25,"textLines":1,"bbox":[136,310,372,32]}
+{"kind":"shape","id":"sh/h4byhgn2","slide":10,"bbox":[112,402,420,72]}
+{"kind":"textbox","id":"sh/a5gbq1or","slide":10,"text":"Gestion des employes","textPreview":"Gestion des employes","textChars":20,"textLines":1,"bbox":[136,422,372,32]}
+{"kind":"shape","id":"sh/3m94fu18","slide":10,"bbox":[660,178,420,72]}
+{"kind":"textbox","id":"sh/s72x4nap","slide":10,"text":"Planification des interventions","textPreview":"Planification des interventions","textChars":31,"textLines":1,"bbox":[684,198,372,32]}
+{"kind":"shape","id":"sh/lszqtcj6","slide":10,"bbox":[660,290,420,72]}
+{"kind":"textbox","id":"sh/a1gvy90j","slide":10,"text":"Frais avec photo","textPreview":"Frais avec photo","textChars":16,"textLines":1,"bbox":[684,310,372,32]}
+{"kind":"shape","id":"sh/zidonyd0","slide":10,"bbox":[660,402,420,72]}
+{"kind":"textbox","id":"sh/val87ed8","slide":10,"text":"Fiche journaliere Excel","textPreview":"Fiche journaliere Excel","textChars":23,"textLines":1,"bbox":[684,422,372,32]}
+{"kind":"image","id":"im/xkf6dcbu","slide":10,"name":"","alt":"Logo CAIDELEC","bbox":[930,38,260,70]}
+{"kind":"notes","id":"nt/d98jz3","slide":10,"text":""}
+{"kind":"slide","id":"sl/sqfz8c","slide":11,"title":"08 - VALIDATION","textShapes":14}
+{"kind":"shape","id":"sh/p4r65wju","slide":11,"bbox":[0,0,18,720]}
+{"kind":"shape","id":"sh/ed8v6psf","slide":11,"bbox":[18,0,8,720]}
+{"kind":"textbox","id":"sh/7y1kre1w","slide":11,"text":"08 - VALIDATION","textPreview":"08 - VALIDATION","textChars":15,"textLines":1,"bbox":[58,42,360,26]}
+{"kind":"textbox","id":"sh/0bi9s36h","slide":11,"text":"Le suivi rend chaque declaration controlable","textPreview":"Le suivi rend chaque declaration controlable","textChars":44,"textLines":1,"bbox":[58,82,820,64]}
+{"kind":"shape","id":"sh/i5sneloj","slide":11,"bbox":[0,686,1280,34]}
+{"kind":"textbox","id":"sh/7qpg3ex0","slide":11,"text":"08 - VALIDATION","textPreview":"08 - VALIDATION","textChars":15,"textLines":1,"bbox":[58,692,420,22]}
+{"kind":"textbox","id":"sh/0z61032l","slide":11,"text":"11","textPreview":"11","textChars":2,"textLines":1,"bbox":[1160,690,62,25]}
+{"kind":"shape","id":"sh/pkzupwb2","slide":11,"bbox":[170,288,150,126]}
+{"kind":"shape","id":"sh/5sneloj2","slide":11,"bbox":[224,268,42,42]}
+{"kind":"textbox","id":"sh/cbulwval","slide":11,"text":"1","textPreview":"1","textChars":1,"textLines":1,"bbox":[224,277,42,24]}
+{"kind":"textbox","id":"sh/nqxs72x4","slide":11,"text":"Planifiee","textPreview":"Planifiee","textChars":9,"textLines":1,"bbox":[184,312,122,28]}
+{"kind":"textbox","id":"sh/u54zidon","slide":11,"text":"Creee par admin","textPreview":"Creee par admin","textChars":15,"textLines":1,"bbox":[184,346,122,46]}
+{"kind":"shape","id":"sh/5kb6xkf6","slide":11,"bbox":[460,288,150,126]}
+{"kind":"shape","id":"sh/czed8v6p","slide":11,"bbox":[514,268,42,42]}
+{"kind":"textbox","id":"sh/neloj2t8","slide":11,"text":"2","textPreview":"2","textChars":1,"textLines":1,"bbox":[514,277,42,24]}
+{"kind":"textbox","id":"sh/ytsvu9kn","slide":11,"text":"A verifier","textPreview":"A verifier","textChars":10,"textLines":1,"bbox":[474,312,122,28]}
+{"kind":"textbox","id":"sh/58z25kb6","slide":11,"text":"Declaree par employe","textPreview":"Declaree par employe","textChars":20,"textLines":1,"bbox":[474,346,122,46]}
+{"kind":"shape","id":"sh/gn29gr2p","slide":11,"bbox":[750,288,150,126]}
+{"kind":"shape","id":"sh/cvixczed","slide":11,"bbox":[804,268,42,42]}
+{"kind":"textbox","id":"sh/5gbq1ory","slide":11,"text":"3","textPreview":"3","textChars":1,"textLines":1,"bbox":[804,277,42,24]}
+{"kind":"textbox","id":"sh/upwb2hwf","slide":11,"text":"Verifiee","textPreview":"Verifiee","textChars":8,"textLines":1,"bbox":[764,312,122,28]}
+{"kind":"textbox","id":"sh/nap4r65w","slide":11,"text":"Confirmee par admin","textPreview":"Confirmee par admin","textChars":19,"textLines":1,"bbox":[764,346,122,46]}
+{"kind":"shape","id":"sh/cj6tovah","slide":11,"bbox":[330,342,130,4]}
+{"kind":"shape","id":"sh/54zidony","slide":11,"bbox":[620,342,130,4]}
+{"kind":"textbox","id":"sh/udg7adsj","slide":11,"text":"La meme logique est appliquee aux frais: l'employe joint une photo justificative, puis l'admin valide apres controle.","textPreview":"La meme logique est appliquee aux frais: l'employe joint une photo justificative, puis l'admin valide apres controle.","textChars":117,"textLines":1,"bbox":[178,500,820,58]}
+{"kind":"image","id":"im/knih4byh","slide":11,"name":"","alt":"Logo CAIDELEC","bbox":[930,38,260,70]}
+{"kind":"notes","id":"nt/sqfz8c","slide":11,"text":""}
+{"kind":"slide","id":"sl/vxu2f3","slide":12,"title":"09 - EXPORT EXCEL","textShapes":12}
+{"kind":"shape","id":"sh/oj2t83it","slide":12,"bbox":[0,0,18,720]}
+{"kind":"shape","id":"sh/vy90je9c","slide":12,"bbox":[18,0,8,720]}
+{"kind":"textbox","id":"sh/6dcbulwv","slide":12,"text":"09 - EXPORT EXCEL","textPreview":"09 - EXPORT EXCEL","textChars":17,"textLines":1,"bbox":[58,42,360,26]}
+{"kind":"textbox","id":"sh/dsji5sne","slide":12,"text":"La fiche journaliere reprend le format terrain de CAIDELEC","textPreview":"La fiche journaliere reprend le format terrain de CAIDELEC","textChars":58,"textLines":1,"bbox":[58,82,820,64]}
+{"kind":"shape","id":"sh/vmtwra5g","slide":12,"bbox":[0,686,1280,34]}
+{"kind":"textbox","id":"sh/61032lsz","slide":12,"text":"09 - EXPORT EXCEL","textPreview":"09 - EXPORT EXCEL","textChars":17,"textLines":1,"bbox":[58,692,420,22]}
+{"kind":"textbox","id":"sh/dg7adsji","slide":12,"text":"12","textPreview":"12","textChars":2,"textLines":1,"bbox":[1160,690,62,25]}
+{"kind":"shape","id":"sh/ovahoza1","slide":12,"bbox":[112,178,990,318]}
+{"kind":"shape","id":"sh/mtwra5gb","slide":12,"bbox":[112,178,240,70]}
+{"kind":"shape","id":"sh/4zidonyd","slide":12,"bbox":[352,178,750,70]}
+{"kind":"textbox","id":"sh/xkf6dcbu","slide":12,"text":"AFFECTATIONS JOURNALIERES","textPreview":"AFFECTATIONS JOURNALIERES","textChars":25,"textLines":1,"bbox":[390,199,680,32]}
+{"kind":"shape","id":"sh/mlkjm1cf","slide":12,"bbox":[112,248,165,48]}
+{"kind":"textbox","id":"sh/f6dcbulw","slide":12,"text":"CHANTIER","textPreview":"CHANTIER","textChars":8,"textLines":1,"bbox":[118,262,153,22]}
+{"kind":"shape","id":"sh/4r65wjud","slide":12,"bbox":[277,248,165,48]}
+{"kind":"textbox","id":"sh/xc3ylc7u","slide":12,"text":"NATURE DES TRAVAUX","textPreview":"NATURE DES TRAVAUX","textChars":18,"textLines":1,"bbox":[283,262,153,22]}
+{"kind":"shape","id":"sh/m94fu18j","slide":12,"bbox":[442,248,165,48]}
+{"kind":"textbox","id":"sh/fu18jqh0","slide":12,"text":"INTERVENANTS","textPreview":"INTERVENANTS","textChars":12,"textLines":1,"bbox":[448,262,153,22]}
+{"kind":"shape","id":"sh/7qpg3ex0","slide":12,"bbox":[607,248,165,48]}
+{"kind":"textbox","id":"sh/i5sneloj","slide":12,"text":"CONTACTS","textPreview":"CONTACTS","textChars":8,"textLines":1,"bbox":[613,262,153,22]}
+{"kind":"shape","id":"sh/pwb2hwfy","slide":12,"bbox":[772,248,165,48]}
+{"kind":"textbox","id":"sh/0bi9s36h","slide":12,"text":"ACCOMPAGNEMENT","textPreview":"ACCOMPAGNEMENT","textChars":14,"textLines":1,"bbox":[778,262,153,22]}
+{"kind":"shape","id":"sh/7y1kre1w","slide":12,"bbox":[937,248,165,48]}
+{"kind":"textbox","id":"sh/ed8v6psf","slide":12,"text":"OBSERVATIONS","textPreview":"OBSERVATIONS","textChars":12,"textLines":1,"bbox":[943,262,153,22]}
+{"kind":"shape","id":"sh/p4r65wju","slide":12,"bbox":[112,296,165,40]}
+{"kind":"shape","id":"sh/wjudg7ad","slide":12,"bbox":[277,296,165,40]}
+{"kind":"shape","id":"sh/72x4nap4","slide":12,"bbox":[442,296,165,40]}
+{"kind":"shape","id":"sh/ih4byhgn","slide":12,"bbox":[607,296,165,40]}
+{"kind":"shape","id":"sh/c3ylc7u5","slide":12,"bbox":[772,296,165,40]}
+{"kind":"shape","id":"sh/1kre1w7m","slide":12,"bbox":[937,296,165,40]}
+{"kind":"shape","id":"sh/uxc3ylc7","slide":12,"bbox":[112,336,165,40]}
+{"kind":"shape","id":"sh/ji5snelo","slide":12,"bbox":[277,336,165,40]}
+{"kind":"shape","id":"sh/crmhk3q5","slide":12,"bbox":[442,336,165,40]}
+{"kind":"shape","id":"sh/1cfa9w3m","slide":12,"bbox":[607,336,165,40]}
+{"kind":"shape","id":"sh/ulwval87","slide":12,"bbox":[772,336,165,40]}
+{"kind":"shape","id":"sh/j6tovaho","slide":12,"bbox":[937,336,165,40]}
+{"kind":"shape","id":"sh/8nqxs72x","slide":12,"bbox":[112,376,165,40]}
+{"kind":"shape","id":"sh/18jqh0fe","slide":12,"bbox":[277,376,165,40]}
+{"kind":"shape","id":"sh/twra5gbq","slide":12,"bbox":[442,376,165,40]}
+{"kind":"shape","id":"sh/4byhgn29","slide":12,"bbox":[607,376,165,40]}
+{"kind":"shape","id":"sh/bq1oryts","slide":12,"bbox":[772,376,165,40]}
+{"kind":"shape","id":"sh/m58z25kb","slide":12,"bbox":[937,376,165,40]}
+{"kind":"shape","id":"sh/t83itgfm","slide":12,"bbox":[112,416,165,40]}
+{"kind":"shape","id":"sh/4nap4r65","slide":12,"bbox":[277,416,165,40]}
+{"kind":"shape","id":"sh/b2hwfyxo","slide":12,"bbox":[442,416,165,40]}
+{"kind":"shape","id":"sh/mhk3q5o7","slide":12,"bbox":[607,416,165,40]}
+{"kind":"shape","id":"sh/tgfmlkjm","slide":12,"bbox":[772,416,165,40]}
+{"kind":"shape","id":"sh/4vmtwra5","slide":12,"bbox":[937,416,165,40]}
+{"kind":"textbox","id":"sh/epkzupwb","slide":12,"text":"Export .xlsx avec logo, bordures, titres et zones de signature.","textPreview":"Export .xlsx avec logo, bordures, titres et zones de signature.","textChars":63,"textLines":1,"bbox":[184,534,850,40]}
+{"kind":"image","id":"im/hoza1gvy","slide":12,"name":"","alt":"Logo CAIDELEC","bbox":[930,38,260,70]}
+{"kind":"image","id":"im/sfil0rqd","slide":12,"name":"","alt":"Logo CAIDELEC","bbox":[132,193,200,42]}
+{"kind":"notes","id":"nt/vxu2f3","slide":12,"text":""}
+{"kind":"slide","id":"sl/n3judp","slide":13,"title":"10 - CONCLUSION","textShapes":12}
+{"kind":"shape","id":"sh/83itgfml","slide":13,"bbox":[0,0,18,720]}
+{"kind":"shape","id":"sh/fil0rqd4","slide":13,"bbox":[18,0,8,720]}
+{"kind":"textbox","id":"sh/qxs72x4n","slide":13,"text":"10 - CONCLUSION","textPreview":"10 - CONCLUSION","textChars":15,"textLines":1,"bbox":[58,42,360,26]}
+{"kind":"textbox","id":"sh/x0nuxc3y","slide":13,"text":"La solution repond au besoin de planification et de controle","textPreview":"La solution repond au besoin de planification et de controle","textChars":60,"textLines":1,"bbox":[58,82,820,64]}
+{"kind":"shape","id":"sh/fu18jqh0","slide":13,"bbox":[0,686,1280,34]}
+{"kind":"textbox","id":"sh/m94fu18j","slide":13,"text":"10 - CONCLUSION","textPreview":"10 - CONCLUSION","textChars":15,"textLines":1,"bbox":[58,692,420,22]}
+{"kind":"textbox","id":"sh/xc3ylc7u","slide":13,"text":"13","textPreview":"13","textChars":2,"textLines":1,"bbox":[1160,690,62,25]}
+{"kind":"shape","id":"sh/4r65wjud","slide":13,"bbox":[100,198,12,12]}
+{"kind":"textbox","id":"sh/ap4r65wj","slide":13,"text":"Centralisation","textPreview":"Centralisation","textChars":14,"textLines":1,"bbox":[128,190,520,30]}
+{"kind":"textbox","id":"sh/za1gvy90","slide":13,"text":"Les employes, interventions et frais sont regroupes dans une seule application.","textPreview":"Les employes, interventions et frais sont regroupes dans une seule application.","textChars":79,"textLines":1,"bbox":[128,224,520,62]}
+{"kind":"shape","id":"sh/svu9knih","slide":13,"bbox":[100,326,12,12]}
+{"kind":"textbox","id":"sh/hgn29gr2","slide":13,"text":"Tracabilite","textPreview":"Tracabilite","textChars":11,"textLines":1,"bbox":[128,318,520,30]}
+{"kind":"textbox","id":"sh/a1gvy90j","slide":13,"text":"Les statuts permettent de suivre ce qui est planifie, declare et verifie.","textPreview":"Les statuts permettent de suivre ce qui est planifie, declare et verifie.","textChars":73,"textLines":1,"bbox":[128,352,520,62]}
+{"kind":"shape","id":"sh/zidonyd0","slide":13,"bbox":[660,198,12,12]}
+{"kind":"textbox","id":"sh/s36hcrmh","slide":13,"text":"Controle","textPreview":"Controle","textChars":8,"textLines":1,"bbox":[688,190,520,30]}
+{"kind":"textbox","id":"sh/hoza1gvy","slide":13,"text":"Les frais peuvent etre verifies grace a la photo justificative.","textPreview":"Les frais peuvent etre verifies grace a la photo justificative.","textChars":63,"textLines":1,"bbox":[688,224,520,62]}
+{"kind":"shape","id":"sh/a5gbq1or","slide":13,"bbox":[660,326,12,12]}
+{"kind":"textbox","id":"sh/3m94fu18","slide":13,"text":"Perspectives","textPreview":"Perspectives","textChars":12,"textLines":1,"bbox":[688,318,520,30]}
+{"kind":"textbox","id":"sh/vixczed8","slide":13,"text":"Ajouter notifications, rapports PDF et historique avance des validations.","textPreview":"Ajouter notifications, rapports PDF et historique avance des validations.","textChars":73,"textLines":1,"bbox":[688,352,520,62]}
+{"kind":"image","id":"im/5sneloj2","slide":13,"name":"","alt":"Logo CAIDELEC","bbox":[930,38,260,70]}
+{"kind":"notes","id":"nt/n3judp","slide":13,"text":""}
+{"kind":"slide","id":"sl/v6hfxk","slide":14,"title":"Merci pour votre attention","textShapes":2}
+{"kind":"shape","id":"sh/vy90je9c","slide":14,"bbox":[0,0,24,720]}
+{"kind":"textbox","id":"sh/d4vmtwra","slide":14,"text":"Merci pour votre attention","textPreview":"Merci pour votre attention","textChars":26,"textLines":1,"bbox":[250,310,780,70]}
+{"kind":"textbox","id":"sh/61032lsz","slide":14,"text":"Projet CAIDELEC","textPreview":"Projet CAIDELEC","textChars":15,"textLines":1,"bbox":[425,402,430,34]}
+{"kind":"image","id":"im/l0rqd4vm","slide":14,"name":"","alt":"Logo CAIDELEC","bbox":[460,120,360,98]}
+{"kind":"notes","id":"nt/v6hfxk","slide":14,"text":""}

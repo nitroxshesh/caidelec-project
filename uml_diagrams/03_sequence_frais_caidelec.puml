@@ -1,0 +1,19 @@
+@startuml
+actor Employe
+participant "Frontend React" as Front
+participant "Backend FastAPI" as API
+database "SQLite" as DB
+Employe -> Front : Remplir frais + photo
+Front -> API : POST /expenses
+API -> DB : Verifier intervention
+DB --> API : intervention.employee_id
+alt intervention appartient a l'employe
+  API -> DB : Enregistrer frais
+  DB --> API : Frais cree
+  API --> Front : 201 Created
+  Front --> Employe : Confirmation
+else non autorise
+  API --> Front : 403 Forbidden
+  Front --> Employe : Afficher erreur
+end
+@enduml

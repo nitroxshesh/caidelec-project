@@ -1,0 +1,39 @@
+@startuml
+class User {
+  +id: int
+  +username: string
+  +email: string
+  +hashed_password: string
+  +role: admin|employe
+  +employee_id: int?
+  +expense_limit: float?
+}
+class Employee {
+  +id: int
+  +full_name: string
+  +role: string
+  +phone: string
+}
+class Intervention {
+  +id: int
+  +employee_id: int
+  +chantier: string
+  +nature_travaux: string
+  +observation: text
+  +start_date: date
+  +end_date: date
+  +status: string
+}
+class Expense {
+  +id: int
+  +intervention_id: int
+  +transport: float
+  +repas: float
+  +autre: float
+  +receipt_photo: string
+  +status: string
+}
+User "0..1" --> "1" Employee
+Employee "1" --> "0..*" Intervention
+Intervention "1" --> "0..*" Expense
+@enduml

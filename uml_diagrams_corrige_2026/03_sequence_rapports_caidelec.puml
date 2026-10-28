@@ -1,0 +1,19 @@
+@startuml
+actor Utilisateur
+participant "Frontend React" as Front
+participant "Backend FastAPI" as API
+participant "ReportService" as Report
+database "SQLite" as DB
+Utilisateur -> Front : Choisir periode
+Front -> API : GET /reports/summary
+API -> Report : verifier role et periode
+Report -> DB : charger interventions
+DB --> Report : interventions filtrees
+Report -> DB : charger frais lies
+DB --> Report : frais
+Report --> API : ReportSummary
+API --> Front : JSON statistiques
+Front --> Utilisateur : Afficher rapport
+Utilisateur -> Front : Exporter CSV
+Front --> Utilisateur : rapport-caidelec.csv
+@enduml

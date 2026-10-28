@@ -1,0 +1,33 @@
+@startuml
+left to right direction
+actor "Administrateur" as Admin
+actor "Employe" as Emp
+rectangle "Systeme CAIDELEC" {
+  usecase "Se connecter" as UC1
+  usecase "Consulter dashboard" as UC2
+  usecase "Gerer employes" as UC3
+  usecase "Planifier interventions" as UC4
+  usecase "Consulter calendrier" as UC5
+  usecase "Exporter Excel" as UC6
+  usecase "Observer frais" as UC7
+  usecase "Verifier frais" as UC8
+  usecase "Mes interventions" as UC9
+  usecase "Declarer frais" as UC10
+  usecase "Justificatif photo" as UC11
+  usecase "Mes frais" as UC12
+}
+Admin --> UC1
+Admin --> UC2
+Admin --> UC3
+Admin --> UC4
+Admin --> UC5
+Admin --> UC6
+Admin --> UC7
+Admin --> UC8
+Emp --> UC1
+Emp --> UC9
+Emp --> UC10
+Emp --> UC11
+Emp --> UC12
+UC10 .> UC11 : <<include>>
+@enduml

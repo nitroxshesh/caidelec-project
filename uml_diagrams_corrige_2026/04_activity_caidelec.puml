@@ -1,0 +1,26 @@
+@startuml
+start
+:Ouvrir application;
+:Saisir identifiants;
+if (Identifiants valides ?) then (oui)
+  :Recuperer role;
+  if (Role admin ?) then (oui)
+    :Afficher dashboard;
+    :Gerer employes;
+    :Planifier interventions;
+    :Observer et verifier frais;
+    :Consulter rapports statistiques;
+    :Exporter Excel et CSV;
+  else (employe)
+    :Afficher espace employe;
+    :Consulter mes interventions;
+    :Declarer frais;
+    :Ajouter justificatif photo;
+    :Consulter mes frais;
+    :Consulter mes rapports;
+  endif
+else (non)
+  :Afficher erreur login;
+endif
+stop
+@enduml
